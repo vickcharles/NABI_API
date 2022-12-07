@@ -14,7 +14,7 @@
     "body-parser": "^1.13.2",
     "colors": "^1.1.2",
     "cors": "^2.8.4",
-    "express": "^4.13.1",
+    "express": "^4.17.3",
     "express-session": "^1.15.6",
     "lodash": "^3.10.0",
     "mongoose": "^5.3.5",
